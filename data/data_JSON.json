@@ -1,0 +1,127 @@
+[
+    {
+    "label": "Compras",
+    "sectors": [
+    {
+    "id": 100497,
+    "name": "Supermercados",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100497.v146.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100497.v23.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100497.v133.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100497.v25.png"
+    },
+    {
+    "id": 100496,
+    "name": "Electrónica - Informática",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100496.v129.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100496.v27.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100496.v117.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100496.v29.png"
+    },
+    {
+    "id": 100500,
+    "name": "Bricolaje - Jardín",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100500.v95.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100500.v29.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100500.v83.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100500.v31.png"
+    },
+    {
+    "id": 100504,
+    "name": "Hogar - Muebles",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100504.v88.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100504.v18.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100504.v81.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100504.v20.png"
+    },
+    {
+    "id": 100506,
+    "name": "Moda",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100506.v69.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100506.v13.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100506.v60.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100506.v15.png"
+    },
+    {
+    "id": 100501,
+    "name": "Viajes",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100501.v69.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100501.v14.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100501.v61.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100501.v16.png"
+    },
+    {
+    "id": 100503,
+    "name": "Coches - Motos",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100503.v79.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100503.v12.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100503.v70.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100503.v14.png"
+    },
+    {
+    "id": 100507,
+    "name": "Ópticas",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100507.v54.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100507.v7.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100507.v49.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100507.v9.png"
+    },
+    {
+    "id": 100498,
+    "name": "Deportes",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100498.v73.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100498.v13.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100498.v61.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100498.v15.png"
+    },
+    {
+    "id": 100499,
+    "name": "Juguetes - Bebés",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100499.v103.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100499.v11.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100499.v96.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100499.v13.png"
+    },
+    {
+    "id": 100502,
+    "name": "Droguería - Perfumería",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100502.v86.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100502.v11.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100502.v77.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100502.v13.png"
+    },
+    {
+    "id": 21571416,
+    "name": "Bancos",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-21571416.v47.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-21571416.v3.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-21571416.v42.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-21571416.v6.png"
+    },
+    {
+    "id": 100505,
+    "name": "Libros - Papelería",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-100505.v73.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-100505.v11.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-100505.v68.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-100505.v13.png"
+    },
+    {
+    "id": 2135606748,
+    "name": "Salud",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-2135606748.v19.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-2135606748.v3.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-2135606748.v12.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-2135606748.v5.png"
+    },
+    {
+    "id": 1002148,
+    "name": "Restauración",
+    "iconUrl": "https://static03.ofertia.com/theme/logo-1002148.v48.png",
+    "smallIconUrl": "https://static03.ofertia.com/theme/smallLogo-1002148.v11.png",
+    "mobileIconUrl": "https://static03.ofertia.com/theme/mobileLogo-1002148.v43.png",
+    "mobileOffersIconUrl": "https://static03.ofertia.com/theme/mobileLogoOffers-1002148.v13.png"
+    }
+    ]
+    }
+    ]
